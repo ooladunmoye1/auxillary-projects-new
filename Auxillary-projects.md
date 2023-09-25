@@ -38,7 +38,6 @@
 
 ![ git commit image ](./Images/git_commit_shell_script.PNG)
 
-## NEW MODIFICATION 
 
 `**Demonstration of the script**`
 ![ shell script execution ](./Images/script_execution.PNG)
@@ -46,6 +45,8 @@
 `*Modification of the script*`
 
 ![ shell script execution modification 1](./Images/script_execution_modification.PNG)
+
+### NEW MODIFICATION 
 
 ![ shell script execution modification 2](./Images/script_execution_modification1.PNG)
 
